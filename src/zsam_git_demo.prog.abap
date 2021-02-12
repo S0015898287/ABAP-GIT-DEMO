@@ -16,7 +16,7 @@ data: lv_val type n value 0.
       loop at i_kna1.
         write i_kna1-kunnr.
       endloop.
-     write 'publish to new branch'.
+     write 'publish to new branch @ 12-Feb '.
 
 
 
